@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331936060634",
+    "project_id": "flavors-example-prod-117e3",
+    "storage_bucket": "flavors-example-prod-117e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331936060634:android:09957fc615a418fbf881e3",
+        "android_client_info": {
+          "package_name": "com.example.senyum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrnbAI45L5prJgjTgrxA-7OH2yk7Q1vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

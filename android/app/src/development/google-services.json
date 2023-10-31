@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253646382523",
+    "project_id": "flavors-example-dev-55ea3",
+    "storage_bucket": "flavors-example-dev-55ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253646382523:android:623415e740771f4c05d09e",
+        "android_client_info": {
+          "package_name": "com.example.senyum.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3OtwVplSwLlFOmzhisO8i6sr7W2jdnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253646382523:android:d7925cd3ada32f4605d09e",
+        "android_client_info": {
+          "package_name": "com.example.senyum.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3OtwVplSwLlFOmzhisO8i6sr7W2jdnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

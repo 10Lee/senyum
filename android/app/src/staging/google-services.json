@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168397712399",
+    "project_id": "flavors-example-stg-5ab5f",
+    "storage_bucket": "flavors-example-stg-5ab5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168397712399:android:c2ba8905ee24c06e7cc77a",
+        "android_client_info": {
+          "package_name": "com.example.senyum.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBmvgHxJhU6hTA08V4BGJ0XfgR6KVFRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
