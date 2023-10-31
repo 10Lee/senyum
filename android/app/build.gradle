@@ -68,17 +68,17 @@ android {
     productFlavors {
         production {
             dimension "default"
-            resValue "string", "app_name", "Flavors"
+            resValue "string", "app_name", "Senyum"
             applicationIdSuffix ""
         }
         staging {
             dimension "default"
-            resValue "string", "app_name", "Stg Flavors"
+            resValue "string", "app_name", "Stg Senyum"
             applicationIdSuffix ".stg"
         }
         development {
             dimension "default"
-            resValue "string", "app_name", "Dev Flavors"
+            resValue "string", "app_name", "Dev Senyum"
             applicationIdSuffix ".dev"
         }
     }
